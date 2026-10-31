@@ -8,6 +8,18 @@ The objective is to understand Netflix's content distribution, identify catalogu
 
 An interactive dashboard was developed using Streamlit to present the findings.
 
+## 🚀 Live Dashboard
+
+**Explore the deployed Netflix Content Analytics Dashboard:**
+
+👉 [Open Live Streamlit App](https://netflix-content-analytics--4444.streamlit.app/)
+
+The interactive dashboard includes:
+- Netflix content analytics and KPIs
+- Country and genre analysis
+- Monthly content trend forecasting
+- Content-based recommendations
+- Machine learning model comparisons
 
 ## Dashboard Preview
 
