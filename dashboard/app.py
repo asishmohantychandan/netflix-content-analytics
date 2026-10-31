@@ -7,7 +7,7 @@ import numpy as np
 import joblib
 
 import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 
 from scipy.sparse import load_npz
 from sklearn.metrics.pairwise import cosine_similarity
