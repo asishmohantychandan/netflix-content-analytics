@@ -8,6 +8,22 @@ The objective is to understand Netflix's content distribution, identify catalogu
 
 An interactive dashboard was developed using Streamlit to present the findings.
 
+
+## Dashboard Preview
+
+### 1. Dashboard Overview
+![Dashboard Overview](visualizations/dashboard_overview.png)
+
+### 2. Content Analysis
+![Content Analysis](visualizations/content_analysis.png)
+
+### 3. Trend Forecast
+![Trend Forecast](visualizations/trend_forecast.png)
+
+### 4. Content Recommendations
+![Recommendations](visualizations/recommendations.png)
+
+
 ## Dataset
 
 - Total records: 8,790
